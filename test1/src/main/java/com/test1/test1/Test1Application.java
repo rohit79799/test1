@@ -5,7 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test1Application {
+
+
+
 	int y =200;
+
 
 
 	public static void main(String[] args) {
