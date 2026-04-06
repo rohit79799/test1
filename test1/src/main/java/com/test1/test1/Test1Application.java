@@ -9,6 +9,7 @@ public class Test1Application {
 	int y = 200;
 	float m = 10.3f;
 	boolean istrue = true;
+	char ch = 'r';
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test1Application.class, args);
